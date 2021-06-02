@@ -1,5 +1,7 @@
 # https://github.com/docker-library/mongo
 
+## Modified by UZLeuven to use USER setting in image
+
 ## Maintained by: [the Docker Community](https://github.com/docker-library/mongo)
 
 This is the Git repo of the [Docker "Official Image"](https://github.com/docker-library/official-images#what-are-official-images) for [`mongo`](https://hub.docker.com/_/mongo/) (not to be confused with any official `mongo` image provided by `mongo` upstream). See [the Docker Hub page](https://hub.docker.com/_/mongo/) for the full readme on how to use this Docker image and for information regarding contributing and issues.
